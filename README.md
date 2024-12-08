@@ -108,4 +108,4 @@ License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Replace placeholders like `yourusername` or `your_api_key` with actual values relevant to your project. This `README.md` provides a clear overview and ensures that others can quickly understand and use your project.
+Replace placeholders like `yourusername` or `your_api_key` with actual values relevant to your project.
